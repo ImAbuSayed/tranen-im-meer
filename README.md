@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tranen-im-meer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tränen im Meer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-im-meer/) |
+| **Get License** | [Commercial Licensing for Tränen im Meer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-im-meer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Skyline verschwimmt, ich hab nur dich im Visier
+> Lass die ganze Welt brennen, solange ich dich spür
+> Schwarzer Wagen, laute Bässe, wir jagen das High
+> Diese Nacht gehört uns, Baby, wir fühlen uns frei
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
