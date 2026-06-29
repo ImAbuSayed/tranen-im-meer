@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tranen-im-meer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tränen im Meer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-im-meer/) |
+| **Get License** | [License this song: Tränen im Meer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tranen-im-meer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `df804ca8e9de83899a1a0f7c35a3a181557fa943e9368126c0567c9f1b0e4409` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

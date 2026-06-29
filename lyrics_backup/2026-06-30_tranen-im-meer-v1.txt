@@ -1,0 +1,114 @@
+Title: Tränen im Meer
+Clean Hash: df804ca8e9de83899a1a0f7c35a3a181557fa943e9368126c0567c9f1b0e4409
+Raw Hash: 55de8e7274e9dcc4e6e51674d11566e7ef90b4c8878c3be54fd1fe660cdca760
+Date: 2026-06-30T03:31:54.813270
+Version: 1
+----------------------------------------
+[RAW LYRICS]
+[Hook]
+Die Skyline verschwimmt, ich hab nur dich im Visier
+Lass die ganze Welt brennen, solange ich dich spür
+Schwarzer Wagen, laute Bässe, wir jagen das High
+Diese Nacht gehört uns, Baby, wir fühlen uns frei
+
+[Verse 1]
+Dein Parfüm zieht mich an, ich verfalle in Trance
+Ein Blick von dir reicht und ich habe keine Chance
+Rote Lippen, kalter Wodka, du bist pures Adrenalin
+Wir fahren ohne Ziel durch die Straßen von Berlin
+
+[Pre-Chorus]
+Dein Blick zieht mich an wie ein verdammter Magnet
+Lass uns nicht mehr warten, bevor der Mond untergeht
+
+[Chorus]
+Wir ertränken heute alle unsre Tränen im Meer
+Deine Augen so tief, Baby, komm etwas näher
+Der Bass drückt so schwer, doch wir fliegen so leicht
+Du bist das einzige Gift, das für mich noch reicht
+
+[Verse 2]
+Gold an mei'm Hals, aber du bist mein Juwel
+Sag mir, was du dir wünschst, ich erfülle den Befehl
+Dein Outfit so teuer, pure Klasse, viel Stil
+Jedes Wort aus deinem Mund ist genau, was ich will
+
+[Pre-Chorus 2]
+Mein Puls schlägt im Takt von dei'm Herzschlag laut mit
+Wir beide allein, diese Nacht ist unser Hit
+
+[Chorus]
+Wir ertränken heute alle unsre Tränen im Meer
+Deine Augen so tief, Baby, komm etwas näher
+Der Bass drückt so schwer, doch wir fliegen so leicht
+Du bist das einzige Gift, das für mich noch reicht
+
+[Verse 3]
+Rote Lichter im Club, wir entfliehen der Norm
+Unsere Blicke berühren sich, ein perfekter Sturm
+Wir trinken Champagner, die Gläser sind kalt
+Ich halte dich fest, wenn der Rhythmus lauter schallt
+
+[Pre-Chorus 3]
+Jede Berührung von dir ist wie pure Magie
+Eine Nacht voller Bass und dunkler Melodie
+
+[Chorus]
+Wir ertränken heute alle unsre Tränen im Meer
+Deine Augen so tief, Baby, komm etwas näher
+Der Bass drückt so schwer, doch wir fliegen so leicht
+Du bist das einzige Gift, das für mich noch reicht
+
+[Bridge]
+Let the rhythm take control while we fade into the night
+Saeed will be the one to hold your body tight
+
+[Final Chorus]
+Wir ertränken heute alle unsre Tränen im Meer
+Deine Augen so tief, Baby, komm etwas näher
+Der Bass drückt so schwer, doch wir fliegen so leicht
+Du bist das einzige Gift, das für mich noch reicht
+Subproject commit 2075c570c29cbde17470b79e996fe4ebeb14cdcf
+--------------------
+[CLEAN LYRICS]
+Die Skyline verschwimmt, ich hab nur dich im Visier
+Lass die ganze Welt brennen, solange ich dich spür
+Schwarzer Wagen, laute Bässe, wir jagen das High
+Diese Nacht gehört uns, Baby, wir fühlen uns frei
+Dein Parfüm zieht mich an, ich verfalle in Trance
+Ein Blick von dir reicht und ich habe keine Chance
+Rote Lippen, kalter Wodka, du bist pures Adrenalin
+Wir fahren ohne Ziel durch die Straßen von Berlin
+Dein Blick zieht mich an wie ein verdammter Magnet
+Lass uns nicht mehr warten, bevor der Mond untergeht
+Wir ertränken heute alle unsre Tränen im Meer
+Deine Augen so tief, Baby, komm etwas näher
+Der Bass drückt so schwer, doch wir fliegen so leicht
+Du bist das einzige Gift, das für mich noch reicht
+Gold an mei'm Hals, aber du bist mein Juwel
+Sag mir, was du dir wünschst, ich erfülle den Befehl
+Dein Outfit so teuer, pure Klasse, viel Stil
+Jedes Wort aus deinem Mund ist genau, was ich will
+Mein Puls schlägt im Takt von dei'm Herzschlag laut mit
+Wir beide allein, diese Nacht ist unser Hit
+Wir ertränken heute alle unsre Tränen im Meer
+Deine Augen so tief, Baby, komm etwas näher
+Der Bass drückt so schwer, doch wir fliegen so leicht
+Du bist das einzige Gift, das für mich noch reicht
+Rote Lichter im Club, wir entfliehen der Norm
+Unsere Blicke berühren sich, ein perfekter Sturm
+Wir trinken Champagner, die Gläser sind kalt
+Ich halte dich fest, wenn der Rhythmus lauter schallt
+Jede Berührung von dir ist wie pure Magie
+Eine Nacht voller Bass und dunkler Melodie
+Wir ertränken heute alle unsre Tränen im Meer
+Deine Augen so tief, Baby, komm etwas näher
+Der Bass drückt so schwer, doch wir fliegen so leicht
+Du bist das einzige Gift, das für mich noch reicht
+Let the rhythm take control while we fade into the night
+Sayed will be the one to hold your body tight
+Wir ertränken heute alle unsre Tränen im Meer
+Deine Augen so tief, Baby, komm etwas näher
+Der Bass drückt so schwer, doch wir fliegen so leicht
+Du bist das einzige Gift, das für mich noch reicht
+Subproject commit 2075c570c29cbde17470b79e996fe4ebeb14cdcf
